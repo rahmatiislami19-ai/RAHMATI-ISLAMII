@@ -1,0 +1,95 @@
+[06.33, 17/6/2026] Jelita: *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f6f9;
+}
+
+nav{
+    background:#2c3e50;
+    padding:15px;
+    text-align:center;
+    position:sticky;
+    top:0;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:10px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#f1c40f;
+}
+
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+}
+
+.header{
+    background:white;
+    margin-top:20px;
+    padding:30px;
+    border-radius:15px;
+    display:flex;
+    align-items:center;
+    gap:30px;
+}
+
+.header img{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    object-fit:cover;
+    border:4px solid #3498db;
+}
+
+.profil h1{
+    color:#2c3e50;
+}
+
+.profil h3{
+    color:#3498db;
+}
+
+.card{
+    background:white;
+    margin-top:20px;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.card h2{
+    color:#3498db;
+    margin-bottom:10px;
+}
+
+.card ul{
+    margin-left:20px;
+}
+
+.card li{
+    margin-bottom:8px;
+}
+
+footer{
+    background:#2c3e50;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:20px;
+}
+
+
+Sd 02 Kinali
+Mts 03 Kinali
+Sma 1
